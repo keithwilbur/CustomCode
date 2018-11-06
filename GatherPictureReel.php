@@ -1,7 +1,4 @@
 <?php
-/*
- * @copyright Copyright (c) Disney - All Rights Reserved
- */
 
 require_once (PATH_TO_INC . "/entities/Task.php");
 require_once (PATH_TO_INC . "/tasks/_task.php");
